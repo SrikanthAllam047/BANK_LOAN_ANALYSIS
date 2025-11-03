@@ -86,13 +86,4 @@ The interactive **Power BI dashboard** provides actionable insights into loan ap
 ✅ Regional Loan Performance Analysis  
 ✅ Time-Based Loan Growth & Default Trends  
 
----
 
-## 💡 Author
-**Shrikant Allam**  
-Power BI Developer | SQL | Data Analytics Enthusiast  
-📧 *[Add your email or LinkedIn link here]*  
-
----
-
-## 🗂️ Repository Structure (Optional)
